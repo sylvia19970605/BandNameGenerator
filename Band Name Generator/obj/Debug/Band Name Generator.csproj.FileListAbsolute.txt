@@ -1,0 +1,20 @@
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.csprojResolveAssemblyReference.cache
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\obj\Debug\Band_Name_Generator.Form1.resources
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\obj\Debug\Band_Name_Generator.Properties.Resources.resources
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.csproj.GenerateResource.Cache
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.csproj.CoreCompileInputs.cache
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\bin\Debug\Band Name Generator.exe.config
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\bin\Debug\Band Name Generator.exe
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\bin\Debug\Band Name Generator.pdb
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.exe
+C:\Users\sylvia.wang55\Desktop\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.pdb
+D:\Band Name Generator\Band Name Generator\bin\Debug\Band Name Generator.exe.config
+D:\Band Name Generator\Band Name Generator\bin\Debug\Band Name Generator.exe
+D:\Band Name Generator\Band Name Generator\bin\Debug\Band Name Generator.pdb
+D:\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.csprojResolveAssemblyReference.cache
+D:\Band Name Generator\Band Name Generator\obj\Debug\Band_Name_Generator.Form1.resources
+D:\Band Name Generator\Band Name Generator\obj\Debug\Band_Name_Generator.Properties.Resources.resources
+D:\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.csproj.GenerateResource.Cache
+D:\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.csproj.CoreCompileInputs.cache
+D:\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.exe
+D:\Band Name Generator\Band Name Generator\obj\Debug\Band Name Generator.pdb
